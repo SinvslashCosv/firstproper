@@ -1,4 +1,4 @@
 # firstproper
 This is my first proper git repository
 <br>
-Author - Tanvi Reddy 
+Author - Tanvi Reddy (PU)
